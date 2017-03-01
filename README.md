@@ -1,11 +1,11 @@
 <html>
 <head>
-<title>WIFIOUTLET</title>
+<title></title>
 </head>
 <body>
 
 <h1>WIFIOUTLET</h1>
-<p>WIFIOUTLET
+<p>
 
 
 Popularity of home automation devices has increased greatly in recent years due to higher affordability and simplicity through smartphone connectivity.
